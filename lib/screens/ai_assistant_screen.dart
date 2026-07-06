@@ -68,7 +68,7 @@ class _AIAssistantScreenState extends State<AIAssistantScreen>
         Uri.parse('https://api.anthropic.com/v1/messages'),
         headers: {
           'Content-Type': 'application/json',
-          'x-api-key': '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',
+          'x-api-key': 'YOUR_API_KEY_HERE',
           'anthropic-version': '2023-06-01',
           'anthropic-dangerous-direct-browser-access': 'true',
         },
