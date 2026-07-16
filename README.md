@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/images/cosmosXplorer.jpeg" alt="CosmosXplorer Banner" width="100%" style="border-radius: 16px"/>
+<img src="assets/images/app_icon_final.png" alt="CosmosXplorer Banner" width="200px" style="border-radius: 24px"/>
 
 # 🌌 CosmosXplorer
 
